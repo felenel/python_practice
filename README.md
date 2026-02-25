@@ -1,4 +1,4 @@
-# python_14days_challenge
+# python_practice
 
 고등학교 공학 동아리 지원 준비용으로
 2주간 파이썬 학습 기록을 남깁니다.
